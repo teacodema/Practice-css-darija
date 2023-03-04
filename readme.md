@@ -1,4 +1,4 @@
-<img src="assets/cssbattle.png" />
+<img src="assets/ws-css.png" />
 
 # Css Battle Challenges
 
