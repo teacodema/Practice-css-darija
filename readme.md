@@ -10,3 +10,4 @@ Visit [cssbattle](https://cssbattle.dev/) website for more challenges
 * Equals - [Challenge Link](https://cssbattle.dev/play/31) / [Solution Link](https://github.com/teacodema/Practice-css-darija/tree/master/31-Equals)
 * Bell - [Challenge Link](https://cssbattle.dev/play/68) / [Solution Link](https://github.com/teacodema/Practice-css-darija/tree/master/68-Bell)
 * Wig - [Challenge Link](https://cssbattle.dev/play/134) / [Solution Link](https://github.com/teacodema/Practice-css-darija/tree/master/134-Wig)
+* Birdie - [Challenge Link](https://cssbattle.dev/play/33) / [Solution Link](https://github.com/teacodema/Practice-css-darija/tree/master/33-Birdie)
