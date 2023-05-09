@@ -16,3 +16,4 @@ Visit [cssbattle](https://cssbattle.dev/) website for more challenges
 * Command-Key - [Challenge Link](https://cssbattle.dev/play/63) / [Solution Link](https://github.com/teacodema/Practice-css-darija/tree/master/63-Command-Key)
 * Ice Cream - [Challenge Link](https://cssbattle.dev/play/35) / [Solution Link](https://github.com/teacodema/Practice-css-darija/tree/master/35-Ice-Cream)
 * Eye of the Tiger - [Challenge Link](https://cssbattle.dev/play/16) / [Solution Link](https://github.com/teacodema/Practice-css-darija/tree/master/16-Eye-of-the-Tiger)
+* Mandala - [Challenge Link](https://cssbattle.dev/play/96) / [Solution Link](https://github.com/teacodema/Practice-css-darija/tree/master/96-Mandala)

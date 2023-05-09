@@ -1,0 +1,65 @@
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #243D83;
+}
+
+.wrapper {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.disk {
+    height: 200px;
+    width: 200px;
+    background-color: #6592CF;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.disk:before,
+.disk:after {
+    content: "";
+    position: absolute;
+    height: 90%;
+    width: 100%;
+    border: 20px #243D83 solid;
+    border-radius: 50%;
+}
+
+.disk:before {
+    transform: translateX(calc(-50% + 10px))
+}
+
+.disk:after {
+    transform: translateX(calc(50% - 10px))
+}
+
+.wrapper:before,
+.wrapper:after {
+    content: "";
+    position: absolute;
+    height: 100%;
+    width: 90%;
+    border: 20px #243D83 solid;
+    border-radius: 50%;
+}
+
+.wrapper:before {
+    transform: translateY(calc(-50% + 10px));
+}
+
+.wrapper:after {
+    transform: translateY(calc(50% - 10px));
+}
