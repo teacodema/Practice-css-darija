@@ -14,3 +14,4 @@ Visit [cssbattle](https://cssbattle.dev/) website for more challenges
 * Door Knob - [Challenge Link](https://cssbattle.dev/play/64) / [Solution Link](https://github.com/teacodema/Practice-css-darija/tree/master/64-Door-Knob)
 * Pokeball - [Challenge Link](https://cssbattle.dev/play/95) / [Solution Link](https://github.com/teacodema/Practice-css-darija/tree/master/95-Pokeball)
 * Ice Cream - [Challenge Link](https://cssbattle.dev/play/35) / [Solution Link](https://github.com/teacodema/Practice-css-darija/tree/master/35-Ice-Cream)
+* Eye of the Tiger - [Challenge Link](https://cssbattle.dev/play/16) / [Solution Link](https://github.com/teacodema/Practice-css-darija/tree/master/16-Eye-of-the-Tiger)
